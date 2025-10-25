@@ -50,3 +50,7 @@ coverage/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Docker
+docker-compose.override.yml
+.docker/
